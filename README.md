@@ -1,5 +1,7 @@
 # Terraform AWS EC2 + S3 Demo
 
+Pls check the "tf demo" folder for the screenshots
+
 A very simple **Infrastructure as Code (IaC)** project using **Terraform** to deploy:
 - ✅ EC2 instance (Amazon Linux 2023, t3.micro)
 - ✅ Security Group allowing SSH (22) & HTTP (80)
